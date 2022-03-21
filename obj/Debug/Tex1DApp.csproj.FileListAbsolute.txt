@@ -1,0 +1,10 @@
+C:\Users\arpal\Downloads\tex1dapp\Tex1DApp\bin\Debug\Tex1DApp.exe.config
+C:\Users\arpal\Downloads\tex1dapp\Tex1DApp\bin\Debug\Tex1DApp.exe
+C:\Users\arpal\Downloads\tex1dapp\Tex1DApp\bin\Debug\Tex1DApp.pdb
+C:\Users\arpal\Downloads\tex1dapp\Tex1DApp\obj\Debug\Tex1DApp.csproj.AssemblyReference.cache
+C:\Users\arpal\Downloads\tex1dapp\Tex1DApp\obj\Debug\Tex1DApp.Form1.resources
+C:\Users\arpal\Downloads\tex1dapp\Tex1DApp\obj\Debug\Tex1DApp.Properties.Resources.resources
+C:\Users\arpal\Downloads\tex1dapp\Tex1DApp\obj\Debug\Tex1DApp.csproj.GenerateResource.cache
+C:\Users\arpal\Downloads\tex1dapp\Tex1DApp\obj\Debug\Tex1DApp.csproj.CoreCompileInputs.cache
+C:\Users\arpal\Downloads\tex1dapp\Tex1DApp\obj\Debug\Tex1DApp.exe
+C:\Users\arpal\Downloads\tex1dapp\Tex1DApp\obj\Debug\Tex1DApp.pdb
